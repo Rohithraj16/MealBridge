@@ -1,1 +1,1 @@
-(https://mealbridge-ls4r.onrender.com/dashboard)[Mealbridge Live]
+[Mealbridge Live](https://mealbridge-ls4r.onrender.com/dashboard)
